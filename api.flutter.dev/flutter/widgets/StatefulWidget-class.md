@@ -1,4 +1,4 @@
-# StatefulWidget class [Null safety](https://dart.dev/null-safety)
+# StatefulWidget class [🇳](https://dart.dev/null-safety)
 
 A widget that has mutable state.
 
